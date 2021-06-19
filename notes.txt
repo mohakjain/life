@@ -1,0 +1,9 @@
+init with:
+board = init(patterns.X(DIM, DIM//5))
+board = init(patterns.X(DIM, DIM//4))
+
+
+TODO:
+- add more patterns
+- add the mov recorder thing
+- add a GUI to pick the intial pattern and color scheme
